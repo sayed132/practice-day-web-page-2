@@ -1,0 +1,156 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    margin: 0;
+}
+.top-banner-section{
+    display: flex;
+    padding-bottom: 150px;
+}
+.top-heding-text{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.top-heding-img{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.img{
+    width: 80%;
+    padding-left: 10%;
+}
+.span-text{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.link-button{
+    padding: 10px 30px;
+    background-image: linear-gradient(to right,tomato,red);
+    border-radius: 6px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    box-shadow: 4px 4px 10px grey;
+}
+
+
+
+
+.middle-banner-section{
+    display: flex;
+    padding-bottom: 40px;
+}
+.middle-heading-text{
+    width: 50%;
+    padding-right: 10%;
+    padding-top: 10%;
+    
+}
+.aboute-me{
+    color: rgba(0, 0, 0, 0.432);
+}
+.middle-heding-img{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.middle-img{
+    width: 48%;
+    padding-left: 30%;
+    padding-top: 9.5%;
+    
+}
+#middle-banner-section{
+    background-image: url(img/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.middle-pra{
+    color: rgba(0, 0, 0, 0.608);
+}
+
+
+.display-flex{
+    display: flex;
+    padding-bottom: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.recipies{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.597);
+}
+.recipies p{
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+.menu{
+    width: 50%;
+    margin-left: 13px;
+    margin-right: 13px;
+    box-shadow: 4px 4px 10px grey;
+    border-radius: 12px;
+}
+.menu-img{
+    width: 80%;
+    padding-left: 9%;
+    padding-top: 2%;
+}
+.menu-pra{
+    padding-right: 10%;
+    padding-left: 9%;
+    color: rgba(0, 0, 0, 0.468) ;
+}
+.menu-head{
+    padding-left: 9%;
+    color: rgba(0, 0, 0, 0.646);
+}
+
+
+.fourth-banner-section{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 80px;
+}
+.fourth-flex{
+    display: flex;
+    
+    width: 100%;
+    
+    border-radius: 12px;
+    background-color: rgb(246, 246, 246);
+    
+}
+.fourth-sec{
+    
+    /* width: 80%; */
+    padding-left: 14%;
+    
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    
+    padding-bottom: 2% ;
+    padding-top: 3%;
+}
+.footer-head{
+    color: orange;
+}
+footer{
+    color: rgba(255, 255, 255, 0.746);
+    text-align: center;
+}
+footer h1{
+    font-size: 22px;
+}
+footer p{
+    font-size: 11px;
+}
